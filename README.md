@@ -2,7 +2,7 @@
 
 ## I'm a student 👨‍🎓
 - 🔭 I’m currently working on a [Rest API for a simple blog in FasAPI](https://github.com/jamshidyerzakov/fastapi-blog)
-- 🌱 I’m currently learning Go, Docker and CI/CD language
+- 🌱 I’m currently learning Go, Docker and CI/CD
 - 👯 I’m looking to collaborate with anyone who wants
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
