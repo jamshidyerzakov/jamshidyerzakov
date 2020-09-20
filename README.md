@@ -1,8 +1,8 @@
 ### Hi there, I'm Jamshid - aka illus10n 👋
 
 ## I'm a student 👨‍🎓
-- 🔭 I’m currently working on a [E-commerce](https://github.com/jamshidyerzakov/django-e-commerce)
-- 🌱 I’m currently learning GraphQL, Django and R language
+- 🔭 I’m currently working on a [Rest API for a simple blog in FasAPI](https://github.com/jamshidyerzakov/fastapi-blog)
+- 🌱 I’m currently learning Go, Docker and CI/CD language
 - 👯 I’m looking to collaborate with anyone who wants
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
@@ -26,6 +26,8 @@
 <img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
 
 <img align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+
+<img align="left" alt="Go" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
 
 <img align="left" alt="Django" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 
