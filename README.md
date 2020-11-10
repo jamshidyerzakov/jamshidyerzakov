@@ -55,7 +55,7 @@
 
 
 [twitter]: https://twitter.com/illus10n1
-[instagram]: https://www.instagram.com/_illus10n_/
+[instagram]: https://www.instagram.com/jamshidyerzakov/
 [linkedin]: https://www.linkedin.com/in/jamshid-erzakov-7b40871b3/
 [discord]: https://discord.com/channels/@me/741917181666918431
 [telegram]: https://t.me/jamshidyerzakov/
