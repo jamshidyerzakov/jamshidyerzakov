@@ -1,9 +1,9 @@
 ### Hi there, I'm Jamshid - aka illus10n 👋
 
 ## I'm a student 👨‍🎓
-- 🌱 I’m currently learning Kubernetes
+- 🌱 I’m currently learning Kubernetes, event-driven architecture with Knative eventing
 - 👯 I’m looking to collaborate with anyone who wants
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Become certified DevOps engineer
 
 ### Connect with me:
 
